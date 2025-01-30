@@ -14,21 +14,32 @@
         <img src="assets/logo.jpg" alt="logo" class="object-cover max-w-12 max-h-12">
         <span class="text-lg font-medium font-display">ToDesktop</span>
     </a>
-    <div id="nav-menu" class="hidden md:flex gap-4">
+    <div id="nav-menu" class="hidden md:flex gap-12">
         <a href="" class="font-medium hover:text-primary">Pricing</a>
         <a href="" class="font-medium hover:text-primary">Docs</a>
         <a href="" class="font-medium hover:text-primary">Changelog</a>
         <a href="" class="font-medium hover:text-primary">Blogs</a>
         <a href="" class="font-medium hover:text-primary">Login</a>
     </div>
-    <button class="hidden md:flex border border-black px-4 py-2 rounded-lg gap-2 items-center">
+    <button class="hidden md:flex border border-gray-400 px-4 py-2 rounded-lg gap-2 items-center hover:bd-red-500">
         <i class="fa-brands fa-react"></i>
         Electron Developers
         <i class="fa-solid fa-arrow-right"></i>
     </button>
-    <button class="md:hidden" onclick="handleMenu()">
+    <button class="p-2 md:hidden" onclick="handleMenu()">
         <i class="fa-solid fa-bars text-gray-600"></i>
     </button>
+<!--    <div class="fixed bg-red-400 insert-0 p-3" id="mobile-menu">-->
+<!--        <div id="nav-bar" class="flex justify-between">-->
+<!--            <a href="#" id="brand" class="flex gap-2 items-center">-->
+<!--                <img src="assets/logo.jpg" alt="logo" class="object-cover max-w-12 max-h-12">-->
+<!--                <span class="text-lg font-medium font-display">ToDesktop</span>-->
+<!--            </a>-->
+<!--            <button class="p-2 md:hidden" onclick="handleMenu()">-->
+<!--                <i class="fa-solid xmark text-gray-600"></i>-->
+<!--            </button>-->
+<!--        </div>-->
+<!--    </div>-->
 </nav>
 <script src="src/script.js"></script>
 </body>

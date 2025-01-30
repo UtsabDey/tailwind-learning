@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a24528d0-aa03-465a-bb14-5d1329973c9f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/output.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/output.css" afterDir="false" />
-    </list>
+    <list default="true" id="a24528d0-aa03-465a-bb14-5d1329973c9f" name="Changes" comment="Dev script add, Design update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,11 +93,24 @@
       <workItem from="1738070248998" duration="1728000" />
       <workItem from="1738073764241" duration="2669000" />
       <workItem from="1738129630603" duration="590000" />
-      <workItem from="1738234968423" duration="2076000" />
+      <workItem from="1738234968423" duration="2617000" />
     </task>
+    <task id="LOCAL-00001" summary="Dev script add, Design update">
+      <option name="closed" value="true" />
+      <created>1738237609319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738237609319</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dev script add, Design update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dev script add, Design update" />
   </component>
 </project>
